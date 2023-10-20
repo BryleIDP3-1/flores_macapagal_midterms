@@ -28,3 +28,12 @@ Bernardo B. Macapagal, Jr. and Timothy Bryle Flores
 ## License :page_facing_up:
 
 MIT License Year 2023
+
+## References :computer:
+
+https://www.healthline.com/health/sleep/night-owl-vs-early-bird
+https://en.wikipedia.org/wiki/Night_owl
+https://www.mattressclarity.com/how-sleep-works/morning-people-night-owls/
+https://www.collinsdictionary.com/dictionary/english/an-early-bird
+https://en.wikipedia.org/wiki/Lark_(person)
+https://www.careeraddict.com/7-disadvantages-of-getting-up-early
