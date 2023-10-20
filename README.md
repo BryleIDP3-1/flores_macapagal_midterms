@@ -1,8 +1,8 @@
-# flores_macapagal_midterms
+# flores_macapagal_midterms :pencil:
 
 This is the repository we are creating as the midterm project for our MMED1054 Multimedia Authoring Course.
 
-## Early Bird :eagle: versus Night Owl :owl:
+## Early Bird <br> :eagle: <br> vs. <br> Night Owl <br> :owl:
 
 Welcome to our midterm project about a friendly debate argument of which is better and the significant differences of being an early bird to a night owl.
 This is where we tackle the two most common sleeping traits or personalities of a person. Continue to read more on our webpage. Enjoy reading!
